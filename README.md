@@ -1,4 +1,4 @@
-This is the Agent-Based Model of (aspects of) René Girard's MImetic Theory.
+This is an Agent-Based Model of (aspects of) René Girard's MImetic Theory.
 
 To run the model, download the .nlogo file and open it in the NetLogo software (https://ccl.northwestern.edu/netlogo/).
 
