@@ -1,6 +1,6 @@
 This is the Agent-Based Model of (aspects of) René Girard's MImetic Theory.
 
-To run the model, donwload the .nlogo file and open it in the NetLogo software.
+To run the model, donwload the .nlogo file and open it in the NetLogo software (https://ccl.northwestern.edu/netlogo/).
 
 To run a simulation in NetLogo:
 - set parameters
